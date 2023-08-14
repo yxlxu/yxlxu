@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lily, and my Chinese name is Yongxin Xu
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Go and Clips
-- 📫 How to reach me? yxlxu@ucdavis.edu / https://www.facebook.com/lily.andrew.963434
+- 📫 How to reach me? yxlxu@ucdavis.edu
