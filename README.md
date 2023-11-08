@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Lily, and my Chinese name is Yongxin Xu
-- 👀 I’m interested in software development and data visualization.
-- 📫 How to reach me? yxlxu@ucdavis.edu
+- 👋 Hi, I’m Yongxin(Lily) Xu
+- 👀 I’m a Computer Science major student with an interest in web development.
